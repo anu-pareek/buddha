@@ -1,0 +1,19 @@
+{
+  "name": "buddha",
+  "version": "1.0.0",
+  "description": "Angular - Node - React - Mongo - NoSQL - Express - Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anu-pareek/buddha.git"
+  },
+  "author": "Anuraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anu-pareek/buddha/issues"
+  },
+  "homepage": "https://github.com/anu-pareek/buddha#readme"
+}
